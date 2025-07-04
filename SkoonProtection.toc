@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: SkoonProtection
+## Author: Thrunk
+## Version: 1
+## Notes: BOP and Wisp costume auto removal 
+
+
+SkoonProtection.lua
